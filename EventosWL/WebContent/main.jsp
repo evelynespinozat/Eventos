@@ -43,7 +43,7 @@
         
     </div>
     <div dojoType="dijit.layout.ContentPane" region="center">
-        <iframe id="frm_contenido" src="MantenerCatalogo.jsp" width="100%" height="100%" frameborder="0" > 
+        <iframe id="frm_contenido" src="eventos.jsp" width="100%" height="100%" frameborder="0" > 
         </iframe>
     </div>
     <div dojoType="dijit.layout.ContentPane" region="bottom">

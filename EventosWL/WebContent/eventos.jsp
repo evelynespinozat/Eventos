@@ -81,7 +81,7 @@
 </head>
 <body class="claro">
 	<form action="EventosServlet" method="post">
-		codigo
+		codigo de prueba
 		<input type="text" name ="txtCodigo" value =""/><br>
 		Nombre Evento
 		<input type="text" name ="txtNombreEvento" value =""/><br>
